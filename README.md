@@ -13,7 +13,6 @@ In my work I always need to connect to a vpn, to make an RDP connection to compu
    <img src="./src/img/1-00173.jpg" />
    <img src="./src/img/1-00220.jpg" />
    <img src="./src/img/1-00644.jpg" />
-  <img src="./src/img/1-01027.jpg" />
 </a>
 
 </div>
