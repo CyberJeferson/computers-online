@@ -1,5 +1,10 @@
 # computers-online  by Windows Powershell
-
+  <div>
+     <h1>See on Youtube 🙈 </h1>
+  <a href="https://www.youtube.com/watch?v=M5NMQYSCPAw">  
+   <img src="./src/img/pimg.jpg" width="500px" height="320px" />
+  </a>
+  </div>
 <p>Check computers on the domain network by name. Ex: name(number)(domain) server1.domain.com </p>
 <div>
 <h2>Objective</h2>
