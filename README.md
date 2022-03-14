@@ -1,7 +1,7 @@
 # computers-online  by Windows Powershell
   <div>
      <h1>See on Youtube 🙈 </h1>
-  <a target="_blank" href="https://www.youtube.com/watch?v=M5NMQYSCPAw">  
+  <a href="https://www.youtube.com/watch?v=M5NMQYSCPAw">  
    <img src="./src/img/pimg.jpg" width="500px" height="320px" />
   </a>
   </div>
